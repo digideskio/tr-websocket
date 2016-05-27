@@ -1,7 +1,7 @@
-<!-- [![npm](https://img.shields.io/npm/v/validator.svg)](https://www.npmjs.com/package/validator) -->
-<!-- [![Travis](https://img.shields.io/travis/timreichen/validator.svg)](https://github.com/timreichen/validator) -->˚
-<!-- [![David](https://img.shields.io/david/timreichen/validator.svg)](https://www.npmjs.com/package/validator) -->
-<!-- [![David](https://img.shields.io/david/dev/timreichen/validator.svg)](https://www.npmjs.com/package/validator) -->
+<!-- [![npm](https://img.shields.io/npm/v/tr-websocket.svg)](https://www.npmjs.com/package/tr-websocket) -->
+<!-- [![Travis](https://img.shields.io/travis/timreichen/tr-websocket.svg)](https://github.com/timreichen/tr-websocket) -->
+<!-- [![David](https://img.shields.io/david/timreichen/tr-websocket.svg)](https://www.npmjs.com/package/tr-websocket) -->
+<!-- [![David](https://img.shields.io/david/dev/timreichen/tr-websocket.svg)](https://www.npmjs.com/package/tr-websocket) -->
 
 # tr-websocket
 
