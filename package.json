@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Tim Reichen"
+  },
+  "dependencies": {
+    "debug": "^2.2.0",
+    "ws": "^1.1.0",
+    "tr-middleware": "git+https://github.com/timreichen/tr-middleware.git"
+  },
+  "description": "Validate your values with ease.",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "tr-validator",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "version": "1.0.0"
+}
