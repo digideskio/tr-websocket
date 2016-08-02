@@ -14,7 +14,7 @@
   },
   "license": "ISC",
   "main": "index.js",
-  "name": "tr-validator",
+  "name": "tr-websocket",
   "scripts": {
     "test": "mocha test/test.js"
   },
